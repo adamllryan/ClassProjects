@@ -8,3 +8,7 @@ Class                               | Link                                      
 Software 1/2                        | https://github.com/adamllryan/UNI_CSE_PROJECTS        | 2021
 Software 2 (Complete)               | https://github.com/adamllryan/CSE2231_WORK            | 2022
 Systems 1                           |                                                       | 2022
+
+
+
+I don't want to get COAMed so for Software and Systems projects ask me for access (resume stuff only)
